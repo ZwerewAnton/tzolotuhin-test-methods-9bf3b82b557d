@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[Test customer email null is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380072059.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380072059.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test Password contains part of the FirstName or LastName is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380075612.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380075612.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer with big length of firstname is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380078158.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380078158.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer with null firstname is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380080575.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380080575.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer with small length of firstname is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380084648.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380084648.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer with space in firstname is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380087068.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380087068.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer with null lastname is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380090150.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380090150.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer with space in lastname is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380094752.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380094752.jpg' height='300' width='600'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test customer password null is pass]]>
+    </line>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380097072.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380097072.jpg' height='300' width='600'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="API Tests" duration-ms="59999" started-at="2020-01-07T06:53:58Z" finished-at="2020-01-07T06:54:58Z">
+    <groups>
+    </groups>
+    <test name="BuildVerificationTest" duration-ms="59999" started-at="2020-01-07T06:53:58Z" finished-at="2020-01-07T06:54:58Z">
+      <class name="ru.nsu.fit.tests.ui.AcceptanceTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="beforeClass" is-config="true" duration-ms="28415" started-at="2020-01-07T12:53:58Z" finished-at="2020-01-07T12:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="checkCustomerEmailNull()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerEmailNull" duration-ms="5752" started-at="2020-01-07T12:54:27Z" finished-at="2020-01-07T12:54:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer email null is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380072059.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380072059.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerEmailNull -->
+        <test-method status="PASS" signature="checkCustomerEmailPasswordWithPartOfNames()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerEmailPasswordWithPartOfNames" duration-ms="2609" started-at="2020-01-07T12:54:33Z" finished-at="2020-01-07T12:54:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Password contains part of the FirstName or LastName is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380075612.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380075612.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerEmailPasswordWithPartOfNames -->
+        <test-method status="PASS" signature="checkCustomerFirstNameLength()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerFirstNameLength" duration-ms="2658" started-at="2020-01-07T12:54:36Z" finished-at="2020-01-07T12:54:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer with big length of firstname is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380078158.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380078158.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerFirstNameLength -->
+        <test-method status="PASS" signature="checkCustomerFirstNameNull()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerFirstNameNull" duration-ms="2253" started-at="2020-01-07T12:54:38Z" finished-at="2020-01-07T12:54:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer with null firstname is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380080575.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380080575.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerFirstNameNull -->
+        <test-method status="PASS" signature="checkCustomerFirstNameSmallLength()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerFirstNameSmallLength" duration-ms="4101" started-at="2020-01-07T12:54:41Z" finished-at="2020-01-07T12:54:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer with small length of firstname is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380084648.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380084648.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerFirstNameSmallLength -->
+        <test-method status="PASS" signature="checkCustomerFirstNameSpace()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerFirstNameSpace" duration-ms="2764" started-at="2020-01-07T12:54:45Z" finished-at="2020-01-07T12:54:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer with space in firstname is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380087068.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380087068.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerFirstNameSpace -->
+        <test-method status="PASS" signature="checkCustomerLastNameNull()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerLastNameNull" duration-ms="2722" started-at="2020-01-07T12:54:47Z" finished-at="2020-01-07T12:54:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer with null lastname is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380090150.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380090150.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerLastNameNull -->
+        <test-method status="PASS" signature="checkCustomerLastNameSpace()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerLastNameSpace" duration-ms="4738" started-at="2020-01-07T12:54:50Z" finished-at="2020-01-07T12:54:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer with space in lastname is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380094752.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380094752.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerLastNameSpace -->
+        <test-method status="PASS" signature="checkCustomerPasswordNull()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="checkCustomerPasswordNull" duration-ms="2244" started-at="2020-01-07T12:54:55Z" finished-at="2020-01-07T12:54:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test customer password null is pass]]>
+            </line>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380097072.jpg'> <img src='C:\Users\Антон\Desktop\Важные документы (нет)\Методы тестирования\tzolotuhin-test-methods-9bf3b82b557d\tzolotuhin-test-methods-9bf3b82b557d\endpoint_tests\test-output\screen\1578380097072.jpg' height='300' width='600'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCustomerPasswordNull -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:ru.nsu.fit.tests.ui.AcceptanceTest@13fee20c]" name="afterClass" is-config="true" duration-ms="992" started-at="2020-01-07T12:54:57Z" finished-at="2020-01-07T12:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- ru.nsu.fit.tests.ui.AcceptanceTest -->
+    </test> <!-- BuildVerificationTest -->
+  </suite> <!-- API Tests -->
+</testng-results>

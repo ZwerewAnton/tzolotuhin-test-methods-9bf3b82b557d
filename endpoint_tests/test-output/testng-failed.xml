@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [API Tests]" parallel="tests">
+  <test name="BuildVerificationTest(failed)" parallel="tests">
+    <classes>
+      <class name="ru.nsu.fit.tests.api.BuildVerificationTest">
+        <methods>
+          <include name="checkCustomerLastName"/>
+          <include name="checkCustomerShortPassword"/>
+          <include name="checkCustomerFirstName"/>
+          <include name="beforeClass"/>
+          <include name="checkCustomerWithLongFirstName"/>
+          <include name="checkCustomerEmail"/>
+          <include name="checkCustomerWNotNullBalance"/>
+          <include name="checkCustomerWithManyUpperCaseInFirstName"/>
+          <include name="checkCustomerWithWrongCharacterInFirsName"/>
+        </methods>
+      </class> <!-- ru.nsu.fit.tests.api.BuildVerificationTest -->
+    </classes>
+  </test> <!-- BuildVerificationTest(failed) -->
+</suite> <!-- Failed suite [API Tests] -->
